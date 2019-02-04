@@ -10,7 +10,7 @@ public class Data {
 	
 	XSSFWorkbook wb;
 	XSSFSheet sheet;
-	String name;
+	String name = "souvik";
 	
 	public Data(String excel)
 	{
